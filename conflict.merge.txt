@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Sir mittens stared upon the glorious lands ahead.  He knew adventure was afoot.  He unsheathed his sword feeling the heft of it.  Shall we get started?
+=======
+Sir mittens stared upon the glorious lands ahead.  He knew adventure was afoot. He would get started this evening.  Shall we get started?
+>>>>>>> TheFinalMerge
